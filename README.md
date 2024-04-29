@@ -1,16 +1,14 @@
-### Hi there 👋
+### Olá! Hello! Salut!
 
-<!--
-**sthefanyemidio/sthefanyemidio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 📖 Eu sou uma estudante de Letras na Universidade Federal Flumimense e falo três línguas: Português, Inglês e Francês.
+- 🌱 Adoro tecnologia e estou procurando aprender cada vez mais sobre linguagens de programação por meio de cursos online gratis ou bolsas de estudos, como DIO.
+- 💻 Ainda estou procurando uma área de trabalho, mas gosto bastante de jogos. :)
+- 😄 Sou uma pessoa muito comunicativa e gosto muito de conversar! Me contate nas minhas redes sociais!
+  
+##
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div> 
+  <a href="https://instagram.com/wtfmakki" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:emidiosthefany@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+</div>
